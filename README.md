@@ -6,12 +6,6 @@ Aplicação em React Native durante a semana "React Insider #2" que gera senhas.
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
 
-<h4 align="center"> 
-	❗ CO-19 🚀 Finalizado!! ❗
-</h4>
-
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
-
 ### Features
 
 - [x] Gerar senhas de acordo com o tamanho especificado
